@@ -18,7 +18,7 @@ let st2 = () => {
 }
 
 let st3 = () => {
-  gautam1
+  gautam
 }
 
 let st4 = () => {
