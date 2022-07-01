@@ -16,3 +16,7 @@ let st1 = () => {
 let st2 = () => {
   gautam1
 }
+
+let st3 = () => {
+  gautam1
+}
