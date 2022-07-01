@@ -8,3 +8,11 @@ let z = 12
 let st = () => {
   gautam1
 }
+
+let st1 = () => {
+  gautam1
+}
+
+let st2 = () => {
+  gautam1
+}
